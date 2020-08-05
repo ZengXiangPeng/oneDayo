@@ -1,0 +1,49 @@
+.loginBox{
+  /* border: 1px solid red; */
+  width: 100%;
+  margin: auto;
+  height: 100vh;
+  background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596109536468&di=7c98caabf15787ef3b1f8c61516ea689&imgtype=0&src=http%3A%2F%2Fcdn.duitang.com%2Fuploads%2Fitem%2F201408%2F05%2F20140805191039_cuTPn.jpeg);
+  background-size: 100% 100vh;
+}
+.boxContent{
+  width: 100%;
+  margin-top: 30%;
+  /* border: 1px solid red; */
+}
+.head{
+  width: 200rpx;
+  height: 200rpx;
+  /* border: 1px solid red; */
+  border-radius: 200rpx;
+  margin: auto;
+}
+.head image{
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 200rpx;
+}
+.boxContent input {
+  width: 60%;
+  height: 60rpx;
+  font-size: 32rpx;
+  padding: 0 6rpx;
+  /* border: 1px solid red; */
+  box-shadow: #778899 0px 0px 8px;
+  border-radius: 10rpx;
+  margin:auto;
+  margin-top: 40rpx;
+  line-height: 60rpx;
+}
+.ent{
+  width: 61%;
+  height: 60rpx;
+  background-color: rgb(250,250,210);
+  box-shadow: #778899 0px 0px 8px;
+  margin:auto;
+  margin-top: 40rpx;
+  border-radius: 10rpx;
+  text-align: center;
+  font-size: 32rpx;
+  line-height: 60rpx;
+}

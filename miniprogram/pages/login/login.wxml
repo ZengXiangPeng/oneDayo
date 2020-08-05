@@ -1,0 +1,12 @@
+<view class="loginBox">
+<!--  -->
+<view class="boxContent" >
+    <view class="head">
+        <image src="../../images/logo.jpg"></image>
+    </view>
+    <input placeholder="输入用户名" bindinput="keyname" value='{{userName}}'></input>
+    <input placeholder="输入密码" bindinput="keyword" value='{{password}}'></input>
+    <view class="ent" bindtap="entStart">确定</view>
+</view>
+</view>
+<!--   "pages/login/login", -->

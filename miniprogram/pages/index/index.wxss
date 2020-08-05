@@ -1,0 +1,19 @@
+.page{
+  width: 90%;
+  height: 100vh;
+  margin: auto;
+}
+.bottom{
+  width: 60%;
+  margin: auto;
+  height: 50rpx;
+  border: 1px solid red;
+  border-radius: 10rpx;
+  margin-top: 50rpx;
+  text-align: center;
+  font-size: 30rpx;
+  line-height: 50rpx;
+  background-color: #FF6633;
+  color: white;
+  font-weight: 600;
+}

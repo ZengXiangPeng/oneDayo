@@ -1,0 +1,10 @@
+<view class="box">
+ <view wx:for="{{msg}}" class="item_box">
+  <view class="item_box_icon">
+   <image src="{{item.iconimg}}"></image>
+ </view>
+ <view class="item_box_table">
+ {{item.name}}
+ </view>
+ </view>
+</view>
